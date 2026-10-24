@@ -1,0 +1,15 @@
+# Build de Maven
+target/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Variables de entorno y secretos
+.env
+
+# Logs y sistema operativo
+*.log
+.DS_Store
+Thumbs.db
